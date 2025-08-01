@@ -2,7 +2,7 @@
 
 **Simple Runner** is a beginner-friendly 2D endless runner game built using [Pygame](https://www.pygame.org/docs/). Inspired by classic side-scrolling games, your objective is to jump over obstacles and survive as long as possible while the game gets progressively faster and more challenging.
 
-![gif](https://imgur.com/a/WNf2SrW)
+[gif](https://imgur.com/a/WNf2SrW)
 
 ---
 
